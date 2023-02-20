@@ -5,7 +5,7 @@ Git Commands for Beginners
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Initializing Projects](#ini)
+- [Initializing Projects](#initializing projects)
 - [Moving within a folder or directory](#mov)
 - [Basic Git commands to remember](#details)
 - [Other Git commands for File creation and changes](#other)
