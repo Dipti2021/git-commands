@@ -47,8 +47,8 @@ A beginners guide to using VS Code terminal with git commands and GitHub. As we 
 
 | Command                                       | Description               |
 | --------------------------------------------- | ------------------------- |
-| `mkdir <directory name>`                      | Create a folder locally   |
-| `touch <file name with extension>`            | Create a file             |
+| `mkdir [directory name]`                      | Create a folder locally   |
+| `touch [file name with extension]`            | Create a file             |
 | `git rm -r [name of the directory to remove]` | Remove a folder           |
 | `git rm [name of the file to remove]`         | Remove a file (or folder) |
 | `git cp [file1] [file2]`                      | Copy a file               |
