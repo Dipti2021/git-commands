@@ -5,8 +5,8 @@ Git Commands for Beginners
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Initializing Projects](#api)
-- [Moving within a folder or directory](#apis)
+- [Initializing Projects](#ini)
+- [Moving within a folder or directory](#mov)
 - [Basic Git commands to remember](#details)
 - [Other Git commands for File creation and changes](#other)
 - [Inspection](#insp)
@@ -15,9 +15,7 @@ Git Commands for Beginners
 
 A beginners guide to using VS Code terminal with git commands and GitHub. As we proceed, we will be adding more commands to this repo.
 
---
-
-### Initializing Projects
+## Initializing Projects
 
 | Command                                                           | Description                                |
 | ----------------------------------------------------------------- | ------------------------------------------ |
