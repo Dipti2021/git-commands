@@ -62,8 +62,7 @@ _Follow the demo_
 
 | Command             | Function                                 |
 | ------------------- | ---------------------------------------- |
-| `git log`           | View changes with its specific id number |
-| `git log --summary` | View detailed changes made               |
+| `git log`           | View changes with its specific commit number |
 | `git diff `         | Preview changes                          |
 
 _Check: for Windows - click on `File` and go to `Preferences`_
