@@ -28,6 +28,7 @@ A beginners guide to using VS Code terminal with git commands and GitHub. As we 
 | Command                                                        | Function                              |
 | -------------------------------------------------------------- | ------------------------------------- |
 | `cd`                                                           | Change to root directory              |
+| `cd [dir-name]`                                                           | Go inside the given directory              |
 | `cd ..`                                                        | Move one directory up                 |
 | `pwd`                                                          | Display the current directory         |
 | `ls`                                                           | Display Files and Folders present     |
