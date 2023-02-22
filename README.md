@@ -63,7 +63,7 @@ _Follow the demo_
 | Command             | Function                                 |
 | ------------------- | ---------------------------------------- |
 | `git log`           | View changes with its specific commit number |
-| `git diff `         | Preview changes                          |
+| `git revert [commit number] `         | Revert to a previous change                         |
 
 _Check: for Windows - click on `File` and go to `Preferences`_
 
