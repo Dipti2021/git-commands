@@ -66,6 +66,6 @@ _Follow the demo_
 | `git log`           | View changes with its specific commit number |
 | `git revert [commit number] `         | Revert to a previous change                         |
 
-_Check: for Windows - click on `File` and go to `Preferences`_
+_Check: for Windows - click on `File` and go to `Preferences`_ and look for `Keyboard Shortcuts`
 
-_Check: for Mac - click on `Code` and go to `Preferences`_
+_Check: for Mac - click on `Code` and go to `Preferences`_ and look for `Keyboard Shortcuts`
